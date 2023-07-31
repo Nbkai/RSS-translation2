@@ -4,314 +4,321 @@
     <title>ScienceDirect 出版物：ISPRS 摄影测量与遥感杂志</title>
     <link>https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Mon, 31 Jul 2023 12:38:02 GMT</lastBuildDate>
-    <item>
-      <title>图像分割剪枝：提高大规模遥感应用的计算效率</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001417?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：Lv Xianwei, Claudio Persello、赵武凡、黄晓、胡仲文、明东平、Alfred Stein]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001417?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于像素的图像合成的评估方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001612?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Saverio Francini、Txomin Beauty、Nicholas C. Coops、Michael A. Wulder、Joanne C. White、Gherard Chirici]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001612?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>地质环境遥感机器学习和深度学习综述：挑战、进展和机遇</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001582?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Wei Han, Xiaohan Zhang, Yi Wang, Lizhe Wang, Xiaohui Huang, Jun Li, Sheng Wang, Weitao Chen, Xianju Li, Ruyi Feng, Runyu Fan, Xinyu Zhang, Yuewei Wang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001582?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:01 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jul 2023 15:20:25 GMT</lastBuildDate>
     <item>
       <title>用于全局异常值拒绝的上下文增强运动相干性建模</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001375?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Hongjie Li, Mingyue Dong, Xianwei Zheng, Xiong Xu, Xiao Xie, Hanjiang Xiong]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001375?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:01 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:24 GMT</pubDate>
     </item>
     <item>
       <title>MCHA-Net：一种用于高分辨率遥感图像变化检测的分层监督信号引导的多端复合高阶注意网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001570?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Haiming Zhang, Guorui Ma, Yongxian Zhang, Bin Wang, Heng Li, Lunjun Fan]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001570?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:01 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:24 GMT</pubDate>
     </item>
     <item>
       <title>通过多视图标签传输对移动测绘点云进行语义分割</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001351?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Torben Peters, Claus康拉德·辛德勒·布伦纳]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001351?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:01 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像分割剪枝：提高大规模遥感应用的计算效率</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001417?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：Lv Xianwei, Claudio Persello、赵武凡、黄晓、胡仲文、明东平、Alfred Stein]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001417?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于像素的图像合成的评估方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001612?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Saverio Francini、Txomin Beauty、Nicholas C. Coops、Michael A. Wulder、Joanne C. White、Gherard Chirici]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001612?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:24 GMT</pubDate>
     </item>
     <item>
       <title>用于植物表型分析的旋光单眼叶正常估计模型</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001545?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：薛福多，Bashar Elnashef、金伟奇、Sagi Filin]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001545?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:00 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:23 GMT</pubDate>
     </item>
     <item>
       <title>城市夜光遥感应用：进展、挑战和前景</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001521?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：郑启明，Karen C. Seto、周雨雨、游世学、翁启豪]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001521?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:00 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:23 GMT</pubDate>
     </item>
     <item>
       <title>使用具有相互邻居注意的图神经网络进行双视图对应学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001557?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：李子卓勇马晓光、马嘉仪]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001557?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:38:00 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>ReVISOR：具有可视性和强度的 ResUNet，可去除结构化异常值</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001533?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Maxime Kirgo、Guillaume Terrasse，纪尧姆·蒂博，Maks Ovsjanikov]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001533?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于不同生育期组合高光谱遥感影像光谱和空间信息的水稻地上生物量动态估算</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001387?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：徐天岳、福民王、周石、谢丽丽、姚小平]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001387?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用多尺度上下文注意网络对城市建筑表面材料进行语义分割</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001600?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：徐凡王星、朱睿、许俊、施国强]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001600?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于从 ALS 点云中过滤地面的深度学习：数据集、评估和问题</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001703?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：秦楠楠、伟凯谭、马令飞、张德东、关海燕、李乔纳森]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001703?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>卫星观测东南亚火灾动态对植被含水量和天气条件的响应</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001727?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：付玉云、继恒胡、宋卫国、程远熙、李锐]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001727?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>室内环境的结构引导相机定位</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001594?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Qing Li, Rui Cao, Kanglin Liu, Zongze Li, Jiasong Zhu, Zhenyu Bao, Xu Fang, Qingquan Li, Xianfeng Huang, Guoping Qiu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001594?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:58 GMT</pubDate>
+      <title>地质环境遥感机器学习和深度学习综述：挑战、进展和机遇</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001582?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Wei Han, Xiaohan Zhang, Yi Wang, Lizhe Wang, Xiaohui Huang, Jun Li, Sheng Wang, Weitao Chen, Xianju Li, Ruyi Feng, Runyu Fan, Xinyu Zhang, Yuewei Wang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001582?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:23 GMT</pubDate>
     </item>
     <item>
       <title>移动和删除：使用图卷积神经网络在向量图中构建简化的多任务学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001697?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：周志勇，程傅罗伯特·韦贝尔]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001697?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:58 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:22 GMT</pubDate>
     </item>
     <item>
-      <title>使用基于 Transformer 的深度学习方法从多传感器遥感图像中自动提取冰川</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001806?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Yanfei Peng, Jiang He, Qiangqiang Yuan, Shouxing Wang, Xinde Chu, Liangpei Zhang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001806?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:57 GMT</pubDate>
+      <title>ReVISOR：具有可视性和强度的 ResUNet，可去除结构化异常值</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001533?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Maxime Kirgo、Guillaume Terrasse，纪尧姆·蒂博，Maks Ovsjanikov]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001533?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:22 GMT</pubDate>
     </item>
     <item>
-      <title>利用 Landsat 优化裸土组合，预测巴伐利亚表土农田的土壤有机碳</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001685?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Simone Zepp, Uta海登、马丁·巴赫曼、马库斯·莫勒、马丁·威斯梅尔、巴斯·范·韦斯梅尔]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001685?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:57 GMT</pubDate>
+      <title>基于不同生育期组合高光谱遥感影像光谱和空间信息的水稻地上生物量动态估算</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001387?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：徐天岳、福民王、周石、谢丽丽、姚小平]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001387?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用多尺度上下文注意网络对城市建筑表面材料进行语义分割</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001600?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：徐凡王星、朱睿、许俊、施国强]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001600?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:22 GMT</pubDate>
     </item>
     <item>
       <title>用于修剪机器人的基于全景立体图像的多模态花园数据集和混合 3D 密集重建框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001715?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：灿璞、传宇杨金年先生、Radim Tylecek、Robert B. Fisher]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001715?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:57 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>国家尺度的不渗透性测绘和城市土地变化检测</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001752?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Shaojuan Xu，Stefan菲娜]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001752?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:56 GMT</pubDate>
+      <title>用于从 ALS 点云中过滤地面的深度学习：数据集、评估和问题</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001703?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：秦楠楠、伟凯谭、马令飞、张德东、关海燕、李乔纳森]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001703?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>考虑像素区域预测的提高效率的深度图融合算法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001764?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Zhendong Liu, Xiaoli Liu, Hongliang Guan, Jie Yin, Fuzhou Duan, Shuaizhe Zhang, Wenhu Qv]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001764?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:56 GMT</pubDate>
+      <title>卫星观测东南亚火灾动态对植被含水量和天气条件的响应</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001727?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：付玉云、继恒胡、宋卫国、程远熙、李锐]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001727?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>室内环境的结构引导相机定位</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001594?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Qing Li, Rui Cao, Kanglin Liu, Zongze Li, Jiasong Zhu, Zhenyu Bao, Xu Fang, Qingquan Li, Xianfeng Huang, Guoping Qiu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001594?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:21 GMT</pubDate>
     </item>
     <item>
       <title>CropSow：用于田间作物种植日期估计的综合遥感作物建模框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001776?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：刘寅、春元刁杨子君]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001776?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:56 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:20 GMT</pubDate>
     </item>
     <item>
       <title>基于偏振投影的散射特征提取工具及其在PolSAR图像分类中的应用</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001569?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Wentao Han, Haiqiang Fu, Jianjun Zhu, Shurong Zhang, Qinghua Xie, Jun Hu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001569?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:56 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>Sphere2Vec：在球面上学习用于大规模地理空间预测的通用位置表示</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001818?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：麦庚辰、姚宣、左文云、何雨桐、宋家明、Stefano Ermon、Krzysztof Janowicz、Ni Lao]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001818?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:55 GMT</pubDate>
+      <title>使用基于 Transformer 的深度学习方法从多传感器遥感图像中自动提取冰川</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001806?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Yanfei Peng, Jiang He, Qiangqiang Yuan, Shouxing Wang, Xinde Chu, Liangpei Zhang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001806?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>通过训练数据生成和模型传输自动绘制中国冬小麦季节图</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001843?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Gaoxiang Yang, Xingrong Li, Pengzhi Liu, Xia Yao, Yan Zhu, Weixing Cao, Tao Cheng]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001843?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:55 GMT</pubDate>
+      <title>利用 Landsat 优化裸土组合，预测巴伐利亚表土农田的土壤有机碳</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001685?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Simone Zepp, Uta海登、马丁·巴赫曼、马库斯·莫勒、马丁·威斯梅尔、巴斯·范·韦斯梅尔]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001685?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:20 GMT</pubDate>
     </item>
     <item>
       <title>使用 3D 模型进行室内摄像机姿态回归的合成真实图像域自适应</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001788?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Debaditya Acharya, Christopher詹姆斯·塔特利、Kourosh Khoshelham]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001788?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:55 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:19 GMT</pubDate>
     </item>
     <item>
       <title>使用航空图像和激光雷达点云进行土地覆盖语义分割的不平衡知识驱动多模态网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S092427162300179X?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：王亚萌，易万、张永军、张斌、高志]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S092427162300179X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:55 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:19 GMT</pubDate>
     </item>
     <item>
-      <title>使用十年的现场数据耦合浅层光学复杂区域的水文学和生物光学成分</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001958?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Arjun Adhikari、Harilal B.梅农，Aneesh Lotliker]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001958?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:54 GMT</pubDate>
+      <title>国家尺度的不渗透性测绘和城市土地变化检测</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001752?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Shaojuan Xu，Stefan菲娜]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001752?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑像素区域预测的提高效率的深度图融合算法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001764?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Zhendong Liu, Xiaoli Liu, Hongliang Guan, Jie Yin, Fuzhou Duan, Shuaizhe Zhang, Wenhu Qv]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001764?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:19 GMT</pubDate>
     </item>
     <item>
       <title>使用 GCOM-C/SGLI 数据开发全球 LAI 和 FAPAR 产品</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001855?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Toshiyuki Kobayashi、Hideki小林、杨伟、村上浩、本田芳明、西田那原健洛]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001855?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:54 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:18 GMT</pubDate>
     </item>
     <item>
       <title>融合航拍、彩信和背包图像以及点云，以优化城市地区的 3D 测绘</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001910?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：李兆金，博吴、李媛、陈泽宇]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001910?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:54 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:18 GMT</pubDate>
     </item>
     <item>
-      <title>烧伤区域语义分割：使用卷积网络的新颖数据集和评估</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001831?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Tiago F.R.里贝罗、费尔南多·席尔瓦、何塞·莫雷拉、罗杰·路易斯·德·科斯塔]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001831?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:53 GMT</pubDate>
+      <title>Sphere2Vec：在球面上学习用于大规模地理空间预测的通用位置表示</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001818?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：麦庚辰、姚宣、左文云、何雨桐、宋家明、Stefano Ermon、Krzysztof Janowicz、Ni Lao]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001818?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过训练数据生成和模型传输自动绘制中国冬小麦季节图</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001843?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Gaoxiang Yang, Xingrong Li, Pengzhi Liu, Xia Yao, Yan Zhu, Weixing Cao, Tao Cheng]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001843?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:18 GMT</pubDate>
     </item>
     <item>
       <title>使用 ICESat-2 和 SuperDove 绘制卫星沉积物分布图</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001740?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Xiaohan Zhang, Lizhe Wang, Jun Li, Wei Han, Runyu Fan, Sheng Wang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001740?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:53 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:17 GMT</pubDate>
     </item>
     <item>
       <title>基于图像相似度的间隙填充方法可有效丰富地表水测绘信息</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001922?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Wenjing Huang, Fuqiang Wang, Weili Duan, Lei Tang, Jingxiu Qin, Xiaoyu Meng]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001922?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:53 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:17 GMT</pubDate>
     </item>
     <item>
       <title>一种利用深度迁移学习根据 VIIRS 表面反射率估算叶面积指数的方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001934?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：李娟、志强肖、孙锐、宋金陵]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001934?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:53 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用十年的现场数据耦合浅层光学复杂区域的水文学和生物光学成分</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001958?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Arjun Adhikari、Harilal B.梅农，Aneesh Lotliker]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001958?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:17 GMT</pubDate>
     </item>
     <item>
       <title>利用统一的 Landsat 和 Sentinel-2 图像，针对中国不同生物群落和生长周期建立稳健且统一的地表物候算法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001983?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Jilin Yang, Jinwei Dong, Luo Liu, Miaomiao Zhao, Xiaoyang Zhang, Xuecao Li, Junhu Dai, Huanjiong Wang, Chaoyang Wu, Nanshan You, Shibo Fang, Yong Pang, Yingli He, Guosong Zhao, Xiangming Xiao, Quansheng Ge]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001983?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:52 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:16 GMT</pubDate>
     </item>
     <item>
       <title>用于遥感图像变化检测的基于注意力的多尺度变换器网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S092427162300182X?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：刘伟、易源林、刘伟佳、于永涛、李乔纳森]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S092427162300182X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:52 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:16 GMT</pubDate>
     </item>
     <item>
       <title>基于地表温度、太阳诱导叶绿素荧光和水平衡的干燥指数 TSWDI</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001867?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: August 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 202Author(s): Ying Liu, Xiangyu Yu, Chaoya Dang, Hui Yue, Xu Wang, Hongbo Niu, Pengju Zu, Manhong Cao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001867?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:52 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:16 GMT</pubDate>
     </item>
     <item>
-      <title>浪费 PB：Sentinel-2 UTM 切片网格及其空间开销的调查</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001971?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Bernhard Bauer-Marschallinger ，康斯坦丁·福克纳]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001971?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:51 GMT</pubDate>
+      <title>烧伤区域语义分割：使用卷积网络的新颖数据集和评估</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001831?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Tiago F.R.里贝罗、费尔南多·席尔瓦、何塞·莫雷拉、罗杰·路易斯·德·科斯塔]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001831?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:16 GMT</pubDate>
     </item>
     <item>
       <title>专用于全PolSAR图像船舶检测的二元级联卷积神经网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001879?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：桂高、齐林白、张川、张琳琳、姚立波]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001879?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:51 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:15 GMT</pubDate>
     </item>
     <item>
       <title>图像和激光雷达点云的可扩展混合调整</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001880?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Vetle O. Jonassen 、Narve S. Kjørsvik、Jon Glenn Omholt Gjevestad]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001880?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:51 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:15 GMT</pubDate>
     </item>
     <item>
       <title>融合局部和全局搜索的快速激光雷达地点识别和定位方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001892?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年8月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第202卷作者：施鹏程、佳源李张永军]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001892?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:51 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Sentinel-1 SAR 数据绘制建成区地图</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623002009?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 9 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 203 卷作者：Abhinav Verma, Avik巴塔查亚、苏巴迪普·戴伊、卡洛斯·洛佩兹-马丁内斯、保罗·甘巴]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623002009?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:14 GMT</pubDate>
     </item>
     <item>
       <title>使用对抗域适应网络对高光谱遥感图像进行跨场景湿地测绘</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623001909?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年9月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第203卷作者：黄毅、江涛彭、陈娜、孙薇薇、杜谦、任凯、黄科]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001909?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:50 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:14 GMT</pubDate>
     </item>
     <item>
       <title>基于监督和自监督学习的级联时空融合框架及其应用</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623002034?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2023年9月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第203卷作者：孙伟轩杰李、姜梦辉、袁强强]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623002034?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:50 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:14 GMT</pubDate>
     </item>
     <item>
       <title>跨地理和空间尺度预测耕地土壤有机碳：集成 Sentinel-2A 和实验室 Vis-NIR 光谱</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271623002022?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2023Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 203Author(s): Yilin Bao, Fengmei Yao, Xiangtian Meng, Jiahua Zhang, Huanjun Liu, Abdul Mounem Mouazen]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271623002022?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 31 Jul 2023 12:37:50 GMT</pubDate>
+      <pubDate>Mon, 31 Jul 2023 15:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>浪费 PB：Sentinel-2 UTM 切片网格及其空间开销的调查</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271623001971?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 8 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 202 卷作者：Bernhard Bauer-Marschallinger ，康斯坦丁·福克纳]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271623001971?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 31 Jul 2023 15:20:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
