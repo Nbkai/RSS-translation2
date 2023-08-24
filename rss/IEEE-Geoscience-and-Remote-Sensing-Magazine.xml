@@ -4,9 +4,9 @@
     <title>IEEE 地球科学与遥感杂志 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物 TOC 警报# 6245518</description>
-    <lastBuildDate>Thu, 24 Aug 2023 09:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2023 12:33:56 GMT</lastBuildDate>
     <item>
-      <title>总统致辞【总统致辞】</title>
+      <title>总裁致辞【总裁致辞】</title>
       <link>http://ieeexplore.ieee.org/document/10182308</link>
       <description><![CDATA[您好，很高兴再次见到您！我叫 Mariko Burgin，是 IEEE 地球科学与遥感协会 (GRSS) 主席。您可以通过 President@ieee-grss.org 和 Twitter 上的@GRSS_President 联系我。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10182308</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>地球科学和遥感的人工智能安全：挑战和未来趋势</title>
       <link>http://ieeexplore.ieee.org/document/10180090</link>
-      <description><![CDATA[人工智能（AI）的最新进展显着加强了地球科学和遥感（RS）领域的研究。人工智能算法，特别是基于深度学习的算法，已被开发并广泛应用于遥感数据分析。人工智能的成功应用几乎涵盖了地球观测（EO）任务的所有方面，从超分辨率、去噪和修复等低级视觉任务，到场景分类、物体检测和语义分割等高级视觉任务。尽管人工智能技术使研究人员能够更准确地观察和了解地球，但考虑到许多地球科学和遥感任务的安全性非常关键，人工智能模型的脆弱性和不确定性值得进一步关注。本文回顾了当前地球科学和遥感领域人工智能安全的发展，涵盖以下五个重要方面：对抗性攻击、后门攻击、联邦学习（FL）、不确定性和可解释性。此外，还讨论了潜在的机会和趋势，为未来的研究提供见解。致最优秀的作者们！据了解，本文是首次尝试对地球科学和遥感领域的人工智能安全相关研究进行系统回顾。文章中还列出了可用的代码和数据集，以推动这一充满活力的研究领域向前发展。]]></description>
+      <description><![CDATA[人工智能（AI）的最新进展显着加强了地球科学和遥感（RS）领域的研究。人工智能算法，特别是基于深度学习的算法，已被开发并广泛应用于遥感数据分析。人工智能的成功应用几乎涵盖了地球观测（EO）任务的所有方面，从超分辨率、去噪和修复等低级视觉任务，到场景分类、物体检测和语义分割等高级视觉任务。尽管人工智能技术使研究人员能够更准确地观察和了解地球，但考虑到许多地球科学和遥感任务的安全性非常关键，人工智能模型的脆弱性和不确定性值得进一步关注。本文回顾了当前地球科学和遥感领域人工智能安全的发展，涵盖以下五个重要方面：对抗性攻击、后门攻击、联邦学习（FL）、不确定性和可解释性。此外，还讨论了潜在的机会和趋势，为未来的研究提供见解。致最优秀的作者们！据了解，本文是首次尝试对地球科学和遥感领域中人工智能安全相关的研究进行系统回顾。文章中还列出了可用的代码和数据集，以推动这一充满活力的研究领域向前发展。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10180090</guid>
       <pubDate>Wed, 12 Jul 2023 18:14:27 GMT</pubDate>
     </item>
