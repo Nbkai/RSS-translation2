@@ -29,3 +29,4 @@
  - source016 [https://rss.sciencedirect.com/publication/science/09242716](https://rss.sciencedirect.com/publication/science/09242716) -> [isprs-journal-of-photogrammetry-and-remote-sensing](rss/isprs-journal-of-photogrammetry-and-remote-sensing.xml)
  - source017 [https://rss.sciencedirect.com/publication/science/00344257](https://rss.sciencedirect.com/publication/science/00344257) -> [Remote-Sensing-of-Environment](rss/Remote-Sensing-of-Environment.xml)
  - source018 [https://ieeexplore.ieee.org/rss/TOC6245518.XML](https://ieeexplore.ieee.org/rss/TOC6245518.XML) -> [IEEE-Geoscience-and-Remote-Sensing-Magazine](rss/IEEE-Geoscience-and-Remote-Sensing-Magazine.xml)
+ - source019 [https://rss.sciencedirect.com/publication/science/22120955](https://rss.sciencedirect.com/publication/science/22120955) -> [Urban Climate](rss/Urban%20Climate.xml)
