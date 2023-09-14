@@ -3,8 +3,8 @@
   <channel>
     <title>IEEE 地球科学与遥感杂志 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
-    <description>出版物 TOC 警报# 6245518</description>
-    <lastBuildDate>Thu, 14 Sep 2023 12:35:42 GMT</lastBuildDate>
+    <description>出版物目录提醒# 6245518</description>
+    <lastBuildDate>Thu, 14 Sep 2023 15:20:44 GMT</lastBuildDate>
     <item>
       <title>总统致辞【总统致辞】</title>
       <link>http://ieeexplore.ieee.org/document/10182308</link>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 12 Jul 2023 18:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>通过客观选择高光谱对地观测应用将人工智能带入太空：让“大脑”进入太空靠近“眼睛”卫星任务</title>
+      <title>客观选择高光谱对地观测应用，将人工智能带入太空：让“大脑”落地靠近“眼睛”卫星任务</title>
       <link>http://ieeexplore.ieee.org/document/10180082</link>
       <description><![CDATA[遥感高光谱成像和人工智能（AI）的最新进展为科学和工业的各个领域带来了令人兴奋的机遇，可以直接受益于在轨数据处理。将人工智能带入太空可能会加速对各种事件的响应，因为大量原始高光谱图像（HSI）可以在卫星上转化为有用的信息；因此，图像“到地面的传输速度变得更快，并为全球各地的人工智能解决方案提供了巨大的可扩展性。然而，存在许多与硬件和能源限制、（深度）机器学习模型的资源节约、地面实况数据的可用性以及对基于人工智能的解决方案建立信任相关的挑战。人工智能应用程序的公正、客观和可解释的选择对于新兴任务至关重要，因为它影响卫星设计和运行的各个方面。在本文中，我们解决了这个问题，并介绍了一种可量化的程序，用于客观评估考虑用于机载部署的潜在人工智能应用程序。为了证明所建议技术的灵活性，我们利用该方法来评估两项根本不同的任务的人工智能应用：哥白尼环境高光谱成像任务（CHIME）[欧盟/欧洲航天局（ESA）]和6U纳米卫星直觉-1（KP 实验室）。我们相信，我们的标准化流程可能成为通过选择在科学和工业成果方面最相关的机载人工智能应用程序来最大化地球观测（EO）任务成果的重要工具。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10180082</guid>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 12 Jul 2023 18:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>地球观测计算机视觉——第一届 IEEE GRSS 图像分析与数据融合学院 [技术委员会]</title>
+      <title>地球观测计算机视觉——第一届 IEEE GRSS 图像分析与数据融合流派 [技术委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10180121</link>
       <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10180121</guid>
