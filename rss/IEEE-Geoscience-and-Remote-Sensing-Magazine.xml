@@ -3,7 +3,7 @@
   <channel>
     <title>IEEE 地球科学与遥感杂志 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
-    <description>出版物 TOC 警报# 6245518</description>
+    <description>出版物目录提醒# 6245518</description>
     <lastBuildDate>Mon, 25 Sep 2023 04:00:00 GMT</lastBuildDate>
     <item>
       <title>主席致辞【主席致辞】</title>
@@ -64,7 +64,7 @@
     <item>
       <title>SSL4EO-S12：用于地球观测中自我监督学习的大规模多模式、多时态数据集[软件和数据集]</title>
       <link>http://ieeexplore.ieee.org/document/10261879</link>
-      <description><![CDATA[自监督预训练具有从大规模地球观测（EO）数据生成表达表示的潜力，无需人工注释。然而，该领域现有的大多数预训练都是基于 ImageNet 或中等规模的标记遥感 (RS) 数据集。在本文中，我们分享了一个未标记的数据集 Self-Supervised Learning for Earth Observation-Sentinel-1/2 (SSL4EO-S12)，用于组装大规模、全球、多模态和多季节的卫星图像语料库。我们证明 SSL4EO-S12 成功地对一组代表性方法进行了自监督预训练：动量对比 (MoCo)、无标签自蒸馏 (DINO)、掩码自动编码器 (MAE) 和 data2vec，以及多个下游应用程序，包括场景分类、语义分割和变化检测。与现有数据集相比，我们的基准测试结果证明了 SSL4EO-S12 的有效性。数据集、相关源代码和预训练模型可在 https://github.com/zhu-xlab/SSL4EO-S12 获取。]]></description>
+      <description><![CDATA[自监督预训练具有从大规模地球观测（EO）数据生成表达表示的潜力，无需人工注释。然而，该领域现有的大多数预训练都是基于 ImageNet 或中等规模的标记遥感 (RS) 数据集。在本文中，我们分享了一个未标记的数据集 Self-Supervised Learning for Earth Observation-Sentinel-1/2 (SSL4EO-S12)，用于组装大规模、全球、多模式和多季节的卫星图像语料库。我们证明 SSL4EO-S12 成功地对一组代表性方法进行了自监督预训练：动量对比 (MoCo)、无标签自蒸馏 (DINO)、掩码自动编码器 (MAE) 和 data2vec，以及多个下游应用程序，包括场景分类、语义分割和变化检测。与现有数据集相比，我们的基准测试结果证明了 SSL4EO-S12 的有效性。数据集、相关源代码和预训练模型可在 https://github.com/zhu-xlab/SSL4EO-S12 获取。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10261879</guid>
       <pubDate>Mon, 25 Sep 2023 13:19:33 GMT</pubDate>
     </item>
