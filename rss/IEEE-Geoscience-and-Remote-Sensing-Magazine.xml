@@ -55,7 +55,7 @@
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>IGARSS 2023 创意日：推进 GRSS 的多样性和包容性 [创意委员会]</title>
+      <title>IGARSS 2023 的 IDEA 日：促进 GRSS 的多样性和包容性 [创意委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10461639</link>
       <description><![CDATA[2023 年 7 月 17 日至 21 日，来自世界各地的 3,000 多名工程师、地球科学家和遥感爱好者齐聚加利福尼亚州帕萨迪纳，参加 2023 年 IEEE 国际地球科学与遥感研讨会 (IGARSS)。启发、发展、赋权和进步 (IDEA) 委员会在为期一周的会议中主持了一系列有影响力的活动，围绕 IEEE 内部推动转型以及多样性、公平和包容性 (DE&amp;I) 的主题地球科学与遥感学会（GRSS）。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461639</guid>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>遥感中的高性能与颠覆性计算：GRSS地球科学信息学技术委员会HDCRS工作组组织的第三届学堂【技术委员会】</title>
+      <title>遥感中的高性能和颠覆性计算：GRSS 地球科学信息学技术委员会 HDCRS 工作组组织的第三届学校会议 [技术委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10461610</link>
       <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461610</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>干涉合成孔径雷达变形测量和地球物理反演中的统计推断：综述</title>
       <link>http://ieeexplore.ieee.org/document/10380118</link>
-      <description><![CDATA[近几十年来，随着合成孔径雷达 (SAR) 卫星及其相关处理算法的快速发展，干涉合成孔径雷达 (InSAR) 已成为监测大规模地面形变和解释地球物理过程的常规方法。统计推断是 InSAR 技术开发和应用的重要组成部分。本文从统计推断的角度概述了 InSAR 形变测量和 InSAR 约束地球物理反演。其目标是通过解决其潜在的数学挑战来促进对该方法的理解。我们首先介绍统计推断的概念和内容组织框架的结构。接下来，我们将探讨 InSAR 形变测量和 InSAR 约束地球物理反演中与统计推断相关的不同问题。最后，我们提出了未来研究的几个重要方向。表 1 包括本文中使用的缩写。此外，我们在附录中重点介绍了相关资源，例如数学背景、开源代码和数据存储库，可作为补充材料在 https://doi.org/10.1109/MGRS.2023.3344159 上获取。]]></description>
+      <description><![CDATA[近几十年来，随着合成孔径雷达（SAR）卫星和相关处理算法的快速发展，干涉SAR（InSAR）已成为监测大规模地面变形和解释地球物理过程的常规方法。统计推断是InSAR技术开发和应用的主要组成部分。本文从统计推断的角度概述了 InSAR 变形测量和 InSAR 约束地球物理反演。其目标是通过解决其潜在的数学挑战来促进对该方法的理解。我们首先介绍统计推断的概念和内容组织框架的结构。接下来，我们研究与 InSAR 变形测量和 InSAR 约束地球物理反演中的统计推断相关的独特问题。最后，我们提出了未来研究的几个重要方向。表 1 包括本文中使用的缩写。此外，我们在附录中重点介绍了相关资源，例如数学背景、开源代码和数据存储库，该附录可作为补充材料在 https://doi.org/10.1109/MGRS.2023.3344159 上获取。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10380118</guid>
       <pubDate>Wed, 03 Jan 2024 13:18:23 GMT</pubDate>
     </item>
