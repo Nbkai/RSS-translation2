@@ -41,7 +41,7 @@
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>星载合成孔径雷达国际协调：个人印象[技术委员会]</title>
+      <title>星载合成孔径雷达的国际协调：个人印象 [技术委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10461633</link>
       <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461633</guid>
@@ -55,9 +55,9 @@
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>IGARSS 2023 的 IDEA 日：促进 GRSS 的多样性和包容性 [创意委员会]</title>
+      <title>IGARSS 2023 创意日：推进 GRSS 的多样性和包容性 [创意委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10461639</link>
-      <description><![CDATA[2023 年 7 月 17 日至 21 日，来自世界各地的 3,000 多名工程师、地球科学家和遥感爱好者齐聚加利福尼亚州帕萨迪纳，参加 2023 年 IEEE 国际地球科学与遥感研讨会 (IGARSS)。启发、发展、赋权和进步 (IDEA) 委员会在为期一周的会议中主持了一系列有影响力的活动，围绕 IEEE 内部推动转型以及多样性、公平和包容性 (DE&amp;I) 的主题地球科学与遥感学会（GRSS）。]]></description>
+      <description><![CDATA[2023 年 7 月 17 日至 21 日，来自世界各地的 3,000 多名工程师、地球科学家和遥感爱好者齐聚加利福尼亚州帕萨迪纳，参加 2023 年 IEEE 国际地球科学和遥感研讨会 (IGARSS)。在为期一周的会议期间，启发、发展、赋能和进步 (IDEA) 委员会领导了一系列有影响力的活动，围绕推动变革以及 IEEE 地球科学和遥感学会 (GRSS) 内的多样性、公平性和包容性 (DE&amp;I) 等主题展开。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461639</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>遥感中的高性能和颠覆性计算：GRSS 地球科学信息学技术委员会 HDCRS 工作组组织的第三届学校会议 [技术委员会]</title>
+      <title>遥感中的高性能和颠覆性计算：GRSS地球科学信息学技术委员会HDCRS工作组组织的第三届学堂【技术委员会】</title>
       <link>http://ieeexplore.ieee.org/document/10461610</link>
       <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461610</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>SAR 图像分析 - 一种计算统计方法：使用 R 代码、数据和应用程序 [书评]</title>
       <link>http://ieeexplore.ieee.org/document/10461609</link>
-      <description><![CDATA[《SAR 图像分析 - 一种计算统计方法：使用 R 代码、数据和应用程序》一书是专门介绍从合成孔径雷达 (SAR) 图像中提取信息的统计方法的特殊资源，所有这些都在使用 R 编程语言的计算框架内进行。该书共 183 页、7 章，涵盖了广泛的主题，包括对 SAR 数据采集的详细概述，以及由于场景的物理特性而与非高斯统计模型的特定概念的紧密联系。其主要目标是整合一个关于 SAR 图像处理中使用的成熟且最先进的参数模型的综合存储库。它还解决了参数估计的关键任务，这对于从数据中提取有价值的信息至关重要。此外，所有 R 代码和数据集均可在 www.wiley.com/go/frery/sarimageanalysis 上获取，使读者能够直接应用所讨论的概念并了解其实际含义，从而使学习体验更具吸引力，因为它弥合了之间的差距理论与实践。]]></description>
+      <description><![CDATA[《SAR 图像分析——一种计算统计方法：使用 R 代码、数据和应用程序》一书是一本出色的资源，专门介绍从合成孔径雷达 (SAR) 图像中提取信息的统计方法，所有这些都在使用 R 编程语言的计算框架内完成。这本书共 183 页，分为 7 章，涵盖了广泛的主题，包括对 SAR 数据采集的详细概述及其与非高斯统计模型的特定概念的紧密联系（由于场景的物理特性）。它的主要目标是整合一个关于 SAR 图像处理中使用的成熟和最先进的参数模型的综合存储库。它还解决了参数估计的关键任务，这对于从数据中提取有价值的信息至关重要。此外，所有 R 代码和数据集均可在 www.wiley.com/go/frery/sarimageanalysis 上找到，让读者可以直接应用所讨论的概念并了解其实际意义，使学习体验更具吸引力，因为它弥合了理论与实践之间的差距。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461609</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
     </item>
