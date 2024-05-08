@@ -3,7 +3,7 @@
   <channel>
     <title>IEEE 地球科学与遥感杂志 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
-    <description>出版物目录提醒# 6245518</description>
+    <description>出版物 TOC 警报# 6245518</description>
     <lastBuildDate>Wed, 06 Mar 2024 05:00:00 GMT</lastBuildDate>
     <item>
       <title>主席致辞【主席致辞】</title>
@@ -41,23 +41,23 @@
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>星载合成孔径雷达的国际协调：个人印象 [技术委员会]</title>
+      <title>星载合成孔径雷达国际协调：个人印象[技术委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10461633</link>
       <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461633</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>地球观测计算机视觉：第二届 GRSS 图像分析与数据融合学院 [技术委员会]</title>
+      <title>地球观测计算机视觉：第二届 GRSS 图像分析与数据融合学派 [技术委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10461637</link>
       <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461637</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>IGARSS 2023 创意日：推进 GRSS 的多样性和包容性 [创意委员会]</title>
+      <title>IGARSS 2023 的 IDEA 日：促进 GRSS 的多样性和包容性 [创意委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10461639</link>
-      <description><![CDATA[2023 年 7 月 17 日至 21 日，来自世界各地的 3,000 多名工程师、地球科学家和遥感爱好者齐聚加利福尼亚州帕萨迪纳，参加 2023 年 IEEE 国际地球科学和遥感研讨会 (IGARSS)。在为期一周的会议期间，启发、发展、赋能和进步 (IDEA) 委员会领导了一系列有影响力的活动，围绕推动变革以及 IEEE 地球科学和遥感学会 (GRSS) 内的多样性、公平性和包容性 (DE&amp;I) 等主题展开。]]></description>
+      <description><![CDATA[2023 年 7 月 17 日至 21 日，来自世界各地的 3,000 多名工程师、地球科学家和遥感爱好者齐聚加利福尼亚州帕萨迪纳，参加 2023 年 IEEE 国际地球科学与遥感研讨会 (IGARSS)。启发、发展、赋权和进步 (IDEA) 委员会在为期一周的会议中主持了一系列有影响力的活动，围绕 IEEE 内部推动转型以及多样性、公平和包容性 (DE&amp;I) 的主题地球科学与遥感学会（GRSS）。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461639</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>继续前进[来自编辑]</title>
       <link>http://ieeexplore.ieee.org/document/10461622</link>
-      <description><![CDATA[首先我要宣布，我即将辞去 IEEE 地球科学与遥感杂志 (GRSM) 主编 (EIC) 的职务。我将在下一期（也是我的最后一期）GRSM 的“编辑者”专栏中提供我的术语的简短摘要。今天，我只想强调，寻找新的 EIC 的工作正在进行中，所有详细信息都可以在以下链接发布的网页上找到：https://www.grss-ieee.org/opportunities/the-ieee-地球科学与遥感杂志主编职位已开放/。申请截止日期为2024年4月30日。]]></description>
+      <description><![CDATA[首先我要宣布，我即将辞去 IEEE 地球科学与遥感杂志 (GRSM) 主编 (EIC) 的职务。我将在下一期（也是我的上一期）GRSM 的“编辑者”专栏中提供我的术语的简短摘要。今天，我只想强调，寻找新的 EIC 的工作正在进行中，所有详细信息都可以在以下链接发布的网页上找到：https://www.grss-ieee.org/opportunities/the-ieee-地球科学与遥感杂志主编职务已开放/。申请截止日期为2024年4月30日。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461622</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>SAR 图像分析 - 一种计算统计方法：使用 R 代码、数据和应用程序 [书评]</title>
       <link>http://ieeexplore.ieee.org/document/10461609</link>
-      <description><![CDATA[《SAR 图像分析——一种计算统计方法：使用 R 代码、数据和应用程序》一书是一本出色的资源，专门介绍从合成孔径雷达 (SAR) 图像中提取信息的统计方法，所有这些都在使用 R 编程语言的计算框架内完成。这本书共 183 页，分为 7 章，涵盖了广泛的主题，包括对 SAR 数据采集的详细概述及其与非高斯统计模型的特定概念的紧密联系（由于场景的物理特性）。它的主要目标是整合一个关于 SAR 图像处理中使用的成熟和最先进的参数模型的综合存储库。它还解决了参数估计的关键任务，这对于从数据中提取有价值的信息至关重要。此外，所有 R 代码和数据集均可在 www.wiley.com/go/frery/sarimageanalysis 上找到，让读者可以直接应用所讨论的概念并了解其实际意义，使学习体验更具吸引力，因为它弥合了理论与实践之间的差距。]]></description>
+      <description><![CDATA[《SAR 图像分析 - 一种计算统计方法：使用 R 代码、数据和应用程序》一书是专门介绍从合成孔径雷达 (SAR) 图像中提取信息的统计方法的特殊资源，所有这些都在使用 R 编程语言的计算框架内进行。该书共 183 页、7 章，涵盖了广泛的主题，包括对 SAR 数据采集的详细概述，以及由于场景的物理特性而与非高斯统计模型的特定概念的紧密联系。其主要目标是整合一个关于 SAR 图像处理中使用的成熟且最先进的参数模型的综合存储库。它还解决了参数估计的关键任务，这对于从数据中提取有价值的信息至关重要。此外，所有 R 代码和数据集均可在 www.wiley.com/go/frery/sarimageanalysis 上获取，使读者能够直接应用所讨论的概念并了解其实际含义，从而使学习体验更具吸引力，因为它弥合了之间的差距理论与实践。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461609</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
     </item>
@@ -134,14 +134,14 @@
     <item>
       <title>遥感与社会感知在城市研究中的协同作用：回顾与展望</title>
       <link>http://ieeexplore.ieee.org/document/10380634</link>
-      <description><![CDATA[城市研究需要一套丰富的信息源和技术来全面描述城市环境。遥感捕获城市景观的物理特征，而社会感测则从社交媒体和数字设备收集数据以反映人类活动。遥感和社会传感的结合已被用来调查城市环境、城市动态和城市居民的福祉。本综述探讨了在城市研究的广泛背景下遥感和社会感知之间协同作用的领先思想和方法。这种协同作用涉及利用遥感和社会传感的优势，比通过任何单一传感方法更深入地了解城市特征。确定了两种类型的协同作用，即“基于转移的协同作用”和“基于整合的协同作用”。前者基于遥感和社会感知的相似性在两者之间转移思想和技术。后者将这些传感方式基于其优势互补进行整合。总结了动机和方法，以展示这种协同作用如何适合研究城市系统的复杂性质。协同作用的典型应用包括土地利用和功能区测绘、特殊土地利用识别、自然和社会经济要素估计以及应急响应。我们还确定了仍然构成挑战且值得未来研究的数据质量问题、方法的完善和应用程序的扩展。该综述为遥感和社会感知的协同奠定了基础，为研究人员从多个感知角度重新审视和重新概念化城市提供了指导。]]></description>
+      <description><![CDATA[城市研究需要一套丰富的信息源和技术来全面描述城市环境。遥感捕获城市景观的物理特征，而社会感测则从社交媒体和数字设备收集数据以反映人类活动。遥感和社会传感的结合已被用来调查城市环境、城市动态和城市居民的福祉。本综述探讨了在城市研究的广泛背景下遥感和社会感知之间协同作用的领先思想和方法。这种协同作用涉及利用遥感和社会传感的优势，比通过任何单一传感方法更深入地了解城市特征。确定了两种类型的协同作用，即“基于转移的协同作用”和“基于整合的协同作用”。前者基于遥感和社会感知的相似性在两者之间转移思想和技术。后者将这些传感方式基于其优势互补进行了整合。总结了动机和方法，以展示这种协同作用如何适合研究城市系统的复杂性质。协同作用的典型应用包括土地利用和功能区测绘、特殊土地利用识别、自然和社会经济要素估计以及应急响应。我们还确定了仍然构成挑战且值得未来研究的数据质量问题、方法的完善和应用程序的扩展。该综述为遥感和社会感知的协同奠定了基础，为研究人员从多个感知角度重新审视和重新概念化城市提供了指导。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10380634</guid>
       <pubDate>Thu, 04 Jan 2024 13:17:42 GMT</pubDate>
     </item>
     <item>
       <title>干涉合成孔径雷达变形测量和地球物理反演中的统计推断：综述</title>
       <link>http://ieeexplore.ieee.org/document/10380118</link>
-      <description><![CDATA[近几十年来，随着合成孔径雷达（SAR）卫星和相关处理算法的快速发展，干涉SAR（InSAR）已成为监测大规模地面变形和解释地球物理过程的常规方法。统计推断是InSAR技术开发和应用的主要组成部分。本文从统计推断的角度概述了 InSAR 变形测量和 InSAR 约束地球物理反演。其目标是通过解决其潜在的数学挑战来促进对该方法的理解。我们首先介绍统计推断的概念和内容组织框架的结构。接下来，我们研究与 InSAR 变形测量和 InSAR 约束地球物理反演中的统计推断相关的独特问题。最后，我们提出了未来研究的几个重要方向。表 1 包括本文中使用的缩写。此外，我们在附录中重点介绍了相关资源，例如数学背景、开源代码和数据存储库，该附录可作为补充材料在 https://doi.org/10.1109/MGRS.2023.3344159 上获取。]]></description>
+      <description><![CDATA[近几十年来，随着合成孔径雷达（SAR）卫星和相关处理算法的快速发展，干涉SAR（InSAR）已成为监测大规模地面变形和解释地球物理过程的常规方法。统计推断是InSAR技术开发和应用的主要组成部分。本文从统计推断的角度概述了 InSAR 变形测量和 InSAR 约束地球物理反演。其目标是通过解决其潜在的数学挑战来促进对该方法的理解。我们首先介绍统计推断的概念和内容组织框架的结构。接下来，我们研究与 InSAR 变形测量和 InSAR 约束地球物理反演中的统计推断相关的独特问题。最后，我们提出了未来研究的几个重要方向。表 1 包括本文中使用的缩写。此外，我们在附录中重点介绍了相关资源，例如数学背景、开源代码和数据存储库，这些资源可作为补充材料在 https://doi.org/10.1109/MGRS.2023.3344159 上获取。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10380118</guid>
       <pubDate>Wed, 03 Jan 2024 13:18:23 GMT</pubDate>
     </item>
