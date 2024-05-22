@@ -6,7 +6,7 @@
     <description>出版物 TOC 警报# 6245518</description>
     <lastBuildDate>Wed, 06 Mar 2024 05:00:00 GMT</lastBuildDate>
     <item>
-      <title>总统来信 [总统寄语]</title>
+      <title>主席致辞【主席致辞】</title>
       <link>http://ieeexplore.ieee.org/document/10462525</link>
       <description><![CDATA[2024 年欢迎加入 IEEE 地球科学与遥感学会 (GRSS)！我很高兴再担任 GRSS 主席一年，并希望我们能够共同完成伟大的事情。我欢迎您通过 President@grss-ieee.org 提出您的想法，因此请随时与我们联系，即使只是打个招呼。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10462525</guid>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
     </item>
     <item>
-      <title>IEEE应用程序</title>
+      <title>IEEE 应用</title>
       <link>http://ieeexplore.ieee.org/document/10461634</link>
       <description><![CDATA[无效的]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461634</guid>
@@ -92,12 +92,12 @@
     <item>
       <title>遥感中的高性能与颠覆性计算：GRSS地球科学信息学技术委员会HDCRS工作组组织的第三届学堂【技术委员会】</title>
       <link>http://ieeexplore.ieee.org/document/10461610</link>
-      <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
+      <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461610</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>赋权正在进行中：庆祝 GRSS 女性指导女性计划的发展 [创意委员会]</title>
+      <title>赋权正在进行中：庆祝 GRSS 女性指导女性计划的成长 [创意委员会]</title>
       <link>http://ieeexplore.ieee.org/document/10461611</link>
       <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461611</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>SAR 图像分析 - 一种计算统计方法：使用 R 代码、数据和应用程序 [书评]</title>
       <link>http://ieeexplore.ieee.org/document/10461609</link>
-      <description><![CDATA[《SAR 图像分析 - 一种计算统计方法：使用 R 代码、数据和应用程序》一书是专门介绍从合成孔径雷达 (SAR) 图像中提取信息的统计方法的特殊资源，所有这些都在使用 R 编程语言的计算框架内进行。该书共 183 页、7 章，涵盖了广泛的主题，包括对 SAR 数据采集的详细概述，以及由于场景的物理特性而与非高斯统计模型的特定概念的紧密联系。其主要目标是整合一个关于 SAR 图像处理中使用的成熟且最先进的参数模型的综合存储库。它还解决了参数估计的关键任务，这对于从数据中提取有价值的信息至关重要。此外，所有 R 代码和数据集均可在 www.wiley.com/go/frery/sarimageanalysis 上获取，使读者能够直接应用所讨论的概念并了解其实际含义，从而使学习体验更具吸引力，因为它弥合了之间的差距理论与实践。]]></description>
+      <description><![CDATA[《SAR 图像分析——一种计算统计方法：使用 R 代码、数据和应用程序》一书是一本出色的资源，专门介绍从合成孔径雷达 (SAR) 图像中提取信息的统计方法，所有这些都在使用 R 编程语言的计算框架内完成。这本书共 183 页，分为 7 章，涵盖了广泛的主题，包括对 SAR 数据采集的详细概述及其与非高斯统计模型的特定概念的紧密联系（由于场景的物理特性）。它的主要目标是整合一个关于 SAR 图像处理中使用的成熟和最先进的参数模型的综合存储库。它还解决了参数估计的关键任务，这对于从数据中提取有价值的信息至关重要。此外，所有 R 代码和数据集均可在 www.wiley.com/go/frery/sarimageanalysis 上找到，让读者可以直接应用所讨论的概念并了解其实际意义，使学习体验更具吸引力，因为它弥合了理论与实践之间的差距。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461609</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年地理分析和遥感机器智能国际会议：简要报告 [会议报告]</title>
+      <title>2023 年地球分析和遥感机器智能国际会议：简要报告 [会议报告]</title>
       <link>http://ieeexplore.ieee.org/document/10461608</link>
       <description><![CDATA[提供社会信息，可能包括从业者和研究人员应该感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461608</guid>
