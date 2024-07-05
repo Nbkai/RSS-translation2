@@ -4,167 +4,146 @@
     <title>IEEE 地球科学与遥感杂志 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物目录提醒# 6245518</description>
-    <lastBuildDate>Wed, 06 Mar 2024 05:00:00 GMT</lastBuildDate>
-    <item>
-      <title>总统来信 [总统寄语]</title>
-      <link>http://ieeexplore.ieee.org/document/10462525</link>
-      <description><![CDATA[欢迎加入 2024 年的 IEEE 地球科学和遥感学会 (GRSS)！我很高兴能再担任一年 GRSS 主席，希望我们能共同成就大事。欢迎您通过 president@grss-ieee.org 发表您的想法，所以请随时与我们联系，哪怕只是打个招呼。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10462525</guid>
-      <pubDate>Thu, 07 Mar 2024 13:16:46 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jul 2024 04:00:00 GMT</lastBuildDate>
     <item>
       <title>封面</title>
-      <link>http://ieeexplore.ieee.org/document/10461619</link>
+      <link>http://ieeexplore.ieee.org/document/10582804</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461619</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582804</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
       <title>员工名单</title>
-      <link>http://ieeexplore.ieee.org/document/10461565</link>
+      <link>http://ieeexplore.ieee.org/document/10582550</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461565</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582550</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>IEEE 应用</title>
-      <link>http://ieeexplore.ieee.org/document/10461634</link>
+      <title>IEEE 反馈</title>
+      <link>http://ieeexplore.ieee.org/document/10582551</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461634</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582551</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>用于沙漠地下含水层勘探的机载探测雷达：Desert-SEA：任务概念研究 [航天机构]</title>
-      <link>http://ieeexplore.ieee.org/document/10461623</link>
-      <description><![CDATA[浅层含水层是北非撒哈拉和阿拉伯半岛最大的淡水水体。由于缺乏大规模监测方法，其地下水动态以及对气候变化和人为排放的响应在很大程度上仍未量化。目前，对这些含水层系统的地下水动态的评估主要来自零星的井测记录，这些记录仅覆盖了这些水体的百分之几的地理范围。为了解决这一不足，我们在美国宇航局和卡塔尔基金会的合作下开发了一种超宽带 (UWB) 甚高频 (VHF) 干涉机载探测雷达，以表征北非和阿拉伯半岛大型极干旱水文盆地最浅水位的深度和几何形状。在此，我们描述了科学目标、测量要求、仪器设计、预期性能、飞行实施场景、调查的主要目标以及概念的首次技术演示。我们的性能分析表明，一个机载、天底探测雷达系统以 70 MHz 的中心频率运行，配备线性极化折叠偶极子天线阵列（可实现 50 MHz 的带宽 (BW)）和 85 dB 的表面信噪比 (SNR)，飞行高度为 500-2,000 m，可以绘制数十公里含水层系统最上层水位深度图，在干燥地形中的垂直分辨率为 3 m，平均穿透深度为 50 m，空间分辨率为 200 m。这一机载概念首次实现了对极度干旱地区主要含水层系统最上层水位进行时间相干高分辨率测绘，为了解其动态以及对日益增加的气候和人为压力源的响应提供独特的见解，而这些压力源在很大程度上仍未得到表征。上述内容大大超越了目前在这些严酷和偏远环境中绘制浅层含水层的能力，目前这种能力依赖于在不同时间尺度上收集的稀疏测井数据，这些数据并未覆盖其地理范围。本文的关键缩写列表可在“本文使用的关键缩写”中找到。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461623</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
+      <title>遥感领域的开放世界认知：概念、挑战和机遇</title>
+      <link>http://ieeexplore.ieee.org/document/10582552</link>
+      <description><![CDATA[近年来，遥感识别技术在现代农业、林业管理、城市规划、自然资源管理、灾害监测等各个领域得到了广泛的应用。然而，由于观测环境复杂多变，观测类别快速增长，现有的遥感识别任务面临着巨大的挑战。现有的闭集识别方法（测试集不包含未知类别）的检测性能受到很大限制。因此，许多遥感开集识别（RSOSR）方法被提出来应对开放世界中更苛刻但更实用的场景，包括具有未知类别的场景或目标。尽管如此，仍然缺乏对RSOSR技术的全面研究。本文对现有的RSOSR技术进行了全面的回顾，包括相关定义、模型原理、评价标准和方法比较。然后，我们识别并讨论了当前RSOSR技术的局限性，并强调了有希望的研究方向。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10582552</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>星载合成孔径雷达的国际协调：个人印象 [技术委员会]</title>
-      <link>http://ieeexplore.ieee.org/document/10461633</link>
+      <title>2023 年 GRSS 奖于 2023 年 IGARSS 之夜“太空与魔法”上颁发 [会议报告]</title>
+      <link>http://ieeexplore.ieee.org/document/10582553</link>
       <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461633</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582553</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>地球观测的计算机视觉：第二届 GRSS 图像分析与数据融合学校 [技术委员会]</title>
-      <link>http://ieeexplore.ieee.org/document/10461637</link>
+      <title>南加州大学 IEEE GRSS–AP-S–SSCS 联合学生分会活动：荣获 2023 年学生分会优秀奖 [分会]</title>
+      <link>http://ieeexplore.ieee.org/document/10582781</link>
       <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461637</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582781</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>IGARSS 2023 创意日：推进 GRSS 的多样性和包容性 [创意委员会]</title>
-      <link>http://ieeexplore.ieee.org/document/10461639</link>
-      <description><![CDATA[2023 年 7 月 17 日至 21 日，来自世界各地的 3,000 多名工程师、地球科学家和遥感爱好者齐聚加利福尼亚州帕萨迪纳，参加 2023 年 IEEE 国际地球科学和遥感研讨会 (IGARSS)。在为期一周的会议期间，启发、发展、赋能和进步 (IDEA) 委员会领导了一系列有影响力的活动，围绕推动变革以及 IEEE 地球科学和遥感学会 (GRSS) 内的多样性、公平性和包容性 (DE&amp;I) 等主题展开。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461639</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
+      <title>非洲妇女、学生和地球科学与遥感领域青年专业人员职业发展活动 [创意委员会]</title>
+      <link>http://ieeexplore.ieee.org/document/10582802</link>
+      <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10582802</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>IEEE 应用程序</title>
+      <link>http://ieeexplore.ieee.org/document/10582795</link>
+      <description><![CDATA[无效的]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10582795</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 IEEE GRSS 数据融合竞赛：快速洪水测绘 [技术委员会]</title>
+      <link>http://ieeexplore.ieee.org/document/10582794</link>
+      <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10582794</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIDE 工具箱：用于解开极端事件的人工智能 [软件和数据集]</title>
+      <link>http://ieeexplore.ieee.org/document/10582507</link>
+      <description><![CDATA[我们引入了用于解开极端情况的人工智能 (AIDE) 工具箱，该工具箱可用于遥感和地球科学应用中的异常检测、极端事件分析和影响评估。AIDE 集成了高级机器学习 (ML) 模型，其复杂度、假设和精密度各不相同，并且可以生成具有概率估计的时空显式监测图。该框架涵盖了监督和非监督算法、确定性和概率性、卷积和循环神经网络 (CNN 和 RNN) 以及基于密度估计的方法。该开源工具箱面向具有遥感和地球科学基础知识、从事异常检测、深度学习 (DL) 和可解释 AI (XAI) 工作的科学家、工程师和学生，可在 https://github.com/IPL-UV/AIDE 上获取。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10582507</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>InSAR-DLPU：基于深度学习的合成孔径雷达干涉相位展开的基准数据集 [软件和数据集]</title>
+      <link>http://ieeexplore.ieee.org/document/10582800</link>
+      <description><![CDATA[本文介绍了一个大型且多样化的基准数据集 InSAR-DLPU，它由 31,100 对包裹相位和绝对相位块组成，以支持合成孔径雷达干涉测量 (InSAR) 信号处理中相位展开 (PU) 技术的深度学习 (DL) 研究。该数据集中的每对斑块均由中国所有地形数据生成，这些数据由 30 米分辨率的 NASA 航天飞机雷达地形测绘任务 (SRTM) 数字高程地图 (DEM) 数据库提供。据我们所知，InSAR-DLPU 是第一个为基于 DL 的 InSAR PU 任务提供基准的公共数据集。基于该数据集，我们可以广泛验证和比较现有的深度卷积神经网络 (DCNN)。此外，由于地形特征和噪声水平的高度多样性，该数据集具有更好的信息丰富性，可以提高基于 DL 的 PU 方法的泛化能力。我们已将 InSAR-DLPU 发布在 https://github.com/zhoulifan/InSAR-DLPU，为基于 DL 的 PU 在 InSAR 应用（如地形测绘和变形监测）方面的研究提供了重要资源。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10582800</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
       <title>IEEE 会议录</title>
-      <link>http://ieeexplore.ieee.org/document/10461620</link>
+      <link>http://ieeexplore.ieee.org/document/10582803</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461620</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:36 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582803</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>IEEE Tech RXIV：与世界分享您的预印本研究！</title>
+      <link>http://ieeexplore.ieee.org/document/10582801</link>
+      <description><![CDATA[无效的]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10582801</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
       <title>IEEE 访问</title>
-      <link>http://ieeexplore.ieee.org/document/10461617</link>
+      <link>http://ieeexplore.ieee.org/document/10582799</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461617</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582799</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:40 GMT</pubDate>
     </item>
     <item>
       <title>目录</title>
-      <link>http://ieeexplore.ieee.org/document/10461631</link>
+      <link>http://ieeexplore.ieee.org/document/10582806</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461631</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582806</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>展望未来 [编辑寄语]</title>
-      <link>http://ieeexplore.ieee.org/document/10461622</link>
-      <description><![CDATA[首先，我要宣布我将辞去 IEEE 地球科学与遥感杂志 (GRSM) 主编 (EIC) 的职务。我将在下一期（也是最后一期）GRSM 的“编辑寄语”专栏中简要介绍我的任期。今天，我只想强调，新任 EIC 的搜寻工作正在进行中，所有详细信息均可在以下链接发布的网页上找到：https://www.grss-ieee.org/opportunities/the-ieee-geoscience-and-remote-sensing-magazine-editor-in-chief-position-is-open/。申请截止日期为 2024 年 4 月 30 日。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461622</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
+      <title>寻找“正常”问题 [编辑寄语]</title>
+      <link>http://ieeexplore.ieee.org/document/10582796</link>
+      <description><![CDATA[在我们等待 IEEE 地球科学与遥感杂志 (GRSM) 特刊在今年晚些时候完成并出版的同时，2024 年 6 月的这期仅包含三篇技术文章和七篇专栏文章。技术文章的数量有所减少，因为这几个月的大多数投稿都是针对三个开放的特刊。因此，本期技术文章数量有限在某种程度上是意料之中的。相反，尽管 GSRM 编辑委员会的许多成员不断努力，但事实证明，要从学会广泛活动组合的不同要素中不断涌现专栏文章是一项“不可能完成的任务”。因此，我们不得不接受这样一个事实：很可能我们永远无法每四个月为每种专栏文章类型获得至少一篇专栏文章，而这正是我担任编辑的目标之一。这看起来很奇怪，因为我们确信执行的活动比我们在专栏中发布的活动要多得多，但也许他们的组织者没有意识到在 GRSM 上发表并展示他们的工作的机会，或者他们不愿意利用这个机会。这对他们和这本杂志来说都是一件遗憾的事。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10582796</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>遥感中的高性能和颠覆性计算：GRSS 地球科学信息学技术委员会 HDCRS 工作组组织的第三届学校会议 [技术委员会]</title>
-      <link>http://ieeexplore.ieee.org/document/10461610</link>
-      <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461610</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>赋权正在进行中：庆祝 GRSS 女性指导女性计划的成长 [创意委员会]</title>
-      <link>http://ieeexplore.ieee.org/document/10461611</link>
-      <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461611</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAR 图像分析 - 一种计算统计方法：使用 R 代码、数据和应用程序 [书评]</title>
-      <link>http://ieeexplore.ieee.org/document/10461609</link>
-      <description><![CDATA[《SAR 图像分析——一种计算统计方法：使用 R 代码、数据和应用程序》一书是一本出色的资源，专门介绍从合成孔径雷达 (SAR) 图像中提取信息的统计方法，所有这些都在使用 R 编程语言的计算框架内完成。这本书共 183 页，分为 7 章，涵盖了广泛的主题，包括对 SAR 数据采集的详细概述及其与非高斯统计模型的特定概念的紧密联系（由于场景的物理特性）。它的主要目标是整合一个关于 SAR 图像处理中使用的成熟和最先进的参数模型的综合存储库。它还解决了参数估计的关键任务，这对于从数据中提取有价值的信息至关重要。此外，所有 R 代码和数据集均可在 www.wiley.com/go/frery/sarimageanalysis 上找到，让读者可以直接应用所讨论的概念并了解其实际意义，使学习体验更具吸引力，因为它弥合了理论与实践之间的差距。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461609</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tech RXIV：与世界分享您的预印本研究！</title>
-      <link>http://ieeexplore.ieee.org/document/10461615</link>
+      <title>IEEE 基金会</title>
+      <link>http://ieeexplore.ieee.org/document/10582798</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461615</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:35 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582798</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年地理分析和遥感机器智能国际会议：简要报告 [会议报告]</title>
-      <link>http://ieeexplore.ieee.org/document/10461608</link>
+      <title>2023 IEEE GRSS 微波和光学遥感建模暑期学校 [技术委员会]</title>
+      <link>http://ieeexplore.ieee.org/document/10582805</link>
       <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461608</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:34 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10582805</guid>
+      <pubDate>Tue, 02 Jul 2024 13:17:40 GMT</pubDate>
     </item>
     <item>
-      <title>IEEE GRSS 孟买分会活动 [章节]</title>
-      <link>http://ieeexplore.ieee.org/document/10461614</link>
-      <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10461614</guid>
-      <pubDate>Wed, 06 Mar 2024 13:16:34 GMT</pubDate>
+      <title>遥感中的视觉语言模型：当前进展和未来趋势</title>
+      <link>http://ieeexplore.ieee.org/document/10506064</link>
+      <description><![CDATA[ChatGPT 和生成式预训练 Transformer 4 (GPT-4) 的卓越成就引发了人们对通用人工智能 (AGI) 大型语言模型 (LLM) 领域的兴趣和研究浪潮。这些模型提供了更接近人类思维的智能解决方案，使我们能够使用通用人工智能 (AI) 来解决各种应用中的问题。然而，在遥感 (RS) 领域，关于 AGI 实现的科学文献仍然相对稀少。现有的遥感领域 AI 相关研究主要侧重于视觉理解任务，而忽略了对对象及其关系的语义理解。这正是视觉语言模型 (VLM) 的优势所在，因为它们能够对图像及其相关的文本描述进行推理，从而更深入地理解底层语义。VLM 可以超越 RS 图像的视觉识别，可以对语义关系进行建模以及生成图像的自然语言描述。这使得它们更适合需要视觉和文本理解的任务，例如图像字幕和视觉问答 (VQA)。本文全面回顾了遥感图像中 VLM 的研究，总结了最新进展，强调了当前的挑战，并确定了潜在的研究机会。具体来说，我们回顾了 VLM 在主流遥感图像任务中的应用，包括图像字幕、基于文本的图像生成、基于文本的图像检索 (TBIR)、VQA、场景分类、语义分割和对象检测。对于每个任务，我们分析了代表性作品并讨论了研究进展。最后，我们总结了现有作品的局限性并提供了未来发展的可能方向。本综述旨在全面概述遥感图像中 VLM 的当前研究进展（见图 1），并激发对这一令人兴奋且充满希望的领域的进一步研究。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10506064</guid>
+      <pubDate>Fri, 19 Apr 2024 13:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>遥感与社会感知在城市研究中的协同作用：回顾与展望</title>
-      <link>http://ieeexplore.ieee.org/document/10380634</link>
-      <description><![CDATA[城市研究需要丰富的信息源和技术，以便全面描绘城市环境。遥感捕捉城市景观的物理特征，而社会感知则从社交媒体和数字设备收集数据以反映人类活动。遥感和社会感知的结合已被用于研究城市环境、城市动态和城市居民的福祉。本综述探讨了在广泛的城市研究背景下遥感和社会感知协同作用的主要思想和方法。这种协同作用涉及利用遥感和社会感知的优势来获得比任何单一感知方法更深入的城市特征理解。协同作用分为两种类型，即“基于转移的协同作用”和“基于整合的协同作用”。前者根据遥感和社会感知的相似性在它们之间转移思想和技术。后者根据这些感知方式的互补优势进行整合。本文总结了这些动机和方法，以展示这种协同作用如何适合研究城市系统的复杂性质。协同作用的典型应用包括土地利用和功能区制图、特殊土地利用识别、自然和社会经济要素估算以及应急响应。我们还确定了数据质量问题、方法改进和应用扩展，这些问题仍然存在挑战，值得未来研究。本综述为遥感和社会感知的协同作用奠定了基础，为研究人员从多种感知角度重新审视和重新概念化城市提供了指导。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10380634</guid>
-      <pubDate>Thu, 04 Jan 2024 13:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>干涉合成孔径雷达统计推断在变形测量和地球物理反演中的应用：综述</title>
-      <link>http://ieeexplore.ieee.org/document/10380118</link>
-      <description><![CDATA[近几十年来，随着合成孔径雷达 (SAR) 卫星及其相关处理算法的快速发展，干涉合成孔径雷达 (InSAR) 已成为监测大规模地面形变和解释地球物理过程的常规方法。统计推断是 InSAR 技术开发和应用的重要组成部分。本文从统计推断的角度概述了 InSAR 形变测量和 InSAR 约束地球物理反演。其目标是通过解决其潜在的数学挑战来促进对该方法的理解。我们首先介绍统计推断的概念和内容组织框架的结构。接下来，我们将探讨 InSAR 形变测量和 InSAR 约束地球物理反演中与统计推断相关的不同问题。最后，我们提出了未来研究的几个重要方向。表 1 包括本文中使用的缩写。此外，我们在附录中重点介绍了相关资源，例如数学背景、开源代码和数据存储库，可作为补充材料在 https://doi.org/10.1109/MGRS.2023.3344159 上获取。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10380118</guid>
-      <pubDate>Wed, 03 Jan 2024 13:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepBlue：用于海洋遥感的高级卷积神经网络应用</title>
-      <link>http://ieeexplore.ieee.org/document/10375549</link>
-      <description><![CDATA[近四十年来，遥感技术不断发展，极大地推动了海洋观测的发展，使海洋数据进入了大数据时代。如何高效、准确地处理和分析海洋大数据，并基于海洋大数据解决实际问题，是一个巨大的挑战。近年来，人工智能（AI）技术发展迅速，涌现出众多深度学习（DL）模型，在大数据分析和实际问题解决中变得十分普遍。其中，卷积神经网络（CNN）作为DL模型的代表，已成为计算机视觉和遥感应用等各个研究领域的首要解决方案之一。在本研究中，我们首先讨论了CNN及其一些变体的模型架构以及它们如何应用于海洋遥感数据的处理和分析。然后，我们证明了CNN可以满足以下六个类别中海洋遥感应用的大部分需求：三维海洋场重建、信息提取、图像超分辨率、海洋现象预报、迁移学习方法和CNN模型可解释性方法。最后讨论了基于CNN的海洋遥感大数据应用面临的技术挑战并总结了未来的研究方向。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10375549</guid>
-      <pubDate>Thu, 28 Dec 2023 13:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>极化滚动不变特征及其在极化合成孔径雷达船舶检测中的应用：全面总结和研究</title>
-      <link>http://ieeexplore.ieee.org/document/10332453</link>
-      <description><![CDATA[能够获取完全极化信息的极化雷达已成为微波遥感的主流。然而，雷达目标散射响应强烈依赖于方向，这使得目标检测和识别等应用更加困难。极化滚转不变特征与雷达视线 (LOS) 上的目标方向无关，具有重要意义，并已在许多领域取得了成功的应用。在雷达极化测量的发展过程中，人们发现并报道了许多极化滚转不变特征。全面总结和研究这些极化滚转不变特征对于当前的研究和进一步发展是必要和有价值的。本文致力于此目的，包含两个主要贡献。首先，根据作者的知识，对极化滚转不变特征进行了彻底的研究。基于其原始推导方式，将它们分为六类，包括基于Sinclair矩阵、Graves矩阵、极化相干性和协方差矩阵、基于特征值-特征向量分解、极化相干性/相关模式和Kennaugh矩阵的推导，同时，进一步研究和介绍它们的表达式、内在关系和物理解释。其次，由于船舶检测是极化合成孔径雷达（PolSAR）的重要应用，研究并展示了这些独立特征在PolSAR船舶检测中的潜力。使用雷达卫星二号（RADARSAT-2）和高分三号PolSAR数据集进行了实验研究。验证了所选的极化滚转不变特征与普通极化特征相比具有优异的性能。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10332453</guid>
-      <pubDate>Wed, 29 Nov 2023 13:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>当今遥感雷达技术的进化发展——从 Telemobiloscope 开始：回顾</title>
-      <link>http://ieeexplore.ieee.org/document/10324327</link>
-      <description><![CDATA[如今，遥感系统/技术已成为民用和军用领域各种应用的最基本要求之一。本篇综述文章从远程移动观测仪的角度讨论了当今遥感雷达/光学/电子战 (EW) 技术的演变发展。本篇综述文章介绍了雷达传感技术的基本原理、顶级雷达分类以及用于遥感应用的天线技术的革命性发展。本文回顾了可用于雷达波形设计的各种技术、使用模糊函数 (AF) 的特性分析、脉冲压缩/拉伸处理、时频 (T-F) 分析等。本文还报告了自真空管微波设备出现以来雷达系统工程发生的重大变革。本文回顾并报告了雷达系统、跟踪和制导雷达系统、先进电子战系统、光子电子战系统和光子信号处理的当代社会应用。本文还讨论了可用于当今遥感应用的最先进的光学技术。除了这些评论之外，还对可用的遥感系统/技术、它们的典型工作频率范围、潜在应用、波形类型等进行了全面的比较研究，并报告了定量结果。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10324327</guid>
-      <pubDate>Tue, 21 Nov 2023 13:17:16 GMT</pubDate>
+      <title>大数据如何帮助监测环境并减轻气候变化带来的风险：综述</title>
+      <link>http://ieeexplore.ieee.org/document/10496582</link>
+      <description><![CDATA[气候变化引发了一系列跨越巨大时空尺度的水文气象、冰川和地球物理过程。随着技术和分析技术的进步，大量遥感 (RS)、大地测量和现场仪器已被开发出来，以有效监测和帮助理解地球系统，包括其气候变化和与全球变暖相关的近期异常现象。记录这些观测结果会产生大量数据，因此需要采用新方法来处理和解释如此庞大的数据集。管理如此庞大的数据量超出了当前计算机存储的考虑范围；它还涉及处理、建模和分析的复杂性。大数据集具有与小数据集不同的独特特征，从而对传统方法提出了挑战。此外，计算时间起着至关重要的作用，尤其是在地质灾害预警和响应系统中，这需要低延迟要求。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10496582</guid>
+      <pubDate>Fri, 12 Apr 2024 13:16:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
