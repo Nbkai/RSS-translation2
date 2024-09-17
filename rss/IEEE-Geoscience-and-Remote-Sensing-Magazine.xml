@@ -85,7 +85,7 @@
     <item>
       <title>InSAR-DLPU：基于深度学习的合成孔径雷达干涉相位展开的基准数据集 [软件和数据集]</title>
       <link>http://ieeexplore.ieee.org/document/10582800</link>
-      <description><![CDATA[本文介绍了一个大型且多样化的基准数据集 InSAR-DLPU，它由 31,100 对包裹相位和绝对相位块组成，以支持合成孔径雷达干涉测量 (InSAR) 信号处理中相位展开 (PU) 技术的深度学习 (DL) 研究。该数据集中的每对斑块均由中国所有地形数据生成，这些数据由 30 米分辨率的 NASA 航天飞机雷达地形测绘任务 (SRTM) 数字高程地图 (DEM) 数据库提供。据我们所知，InSAR-DLPU 是第一个为基于 DL 的 InSAR PU 任务提供基准的公共数据集。基于该数据集，我们可以广泛验证和比较现有的深度卷积神经网络 (DCNN)。此外，由于地形特征和噪声水平的高度多样性，该数据集具有更好的信息丰富性，可以提高基于 DL 的 PU 方法的泛化能力。我们已将 InSAR-DLPU 公开发布于 https://github.com/zhoulifan/InSAR-DLPU，为基于 DL 的 PU 在 InSAR 应用（如地形测绘和变形监测）方面的研究提供了重要资源。]]></description>
+      <description><![CDATA[本文介绍了一个大型且多样化的基准数据集 InSAR-DLPU，它由 31,100 对包裹相位和绝对相位块组成，以支持合成孔径雷达干涉测量 (InSAR) 信号处理中相位展开 (PU) 技术的深度学习 (DL) 研究。该数据集中的每对斑块均由中国所有地形数据生成，这些数据由 30 米分辨率的 NASA 航天飞机雷达地形测绘任务 (SRTM) 数字高程地图 (DEM) 数据库提供。据我们所知，InSAR-DLPU 是第一个为基于 DL 的 InSAR PU 任务提供基准的公共数据集。基于该数据集，我们可以广泛验证和比较现有的深度卷积神经网络 (DCNN)。此外，由于地形特征和噪声水平的高度多样性，该数据集具有更好的信息丰富性，可以提高基于 DL 的 PU 方法的泛化能力。我们已将 InSAR-DLPU 发布在 https://github.com/zhoulifan/InSAR-DLPU，为基于 DL 的 PU 在 InSAR 应用（如地形测绘和变形监测）方面的研究提供了重要资源。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10582800</guid>
       <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
