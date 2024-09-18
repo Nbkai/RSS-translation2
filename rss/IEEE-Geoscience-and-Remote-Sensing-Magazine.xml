@@ -48,7 +48,7 @@
       <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>南加州大学 IEEE GRSS–AP-S–SSCS 联合学生分会活动：荣获 2023 年学生分会卓越奖 [分会]</title>
+      <title>南加州大学 IEEE GRSS–AP-S–SSCS 联合学生分会活动：荣获 2023 年学生分会优秀奖 [分会]</title>
       <link>http://ieeexplore.ieee.org/document/10582781</link>
       <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10582781</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>InSAR-DLPU：基于深度学习的合成孔径雷达干涉相位展开的基准数据集 [软件和数据集]</title>
       <link>http://ieeexplore.ieee.org/document/10582800</link>
-      <description><![CDATA[本文介绍了一个大型且多样化的基准数据集 InSAR-DLPU，它由 31,100 对包裹相位和绝对相位块组成，以支持合成孔径雷达干涉测量 (InSAR) 信号处理中相位展开 (PU) 技术的深度学习 (DL) 研究。该数据集中的每对斑块均由中国所有地形数据生成，这些数据由 30 米分辨率的 NASA 航天飞机雷达地形测绘任务 (SRTM) 数字高程地图 (DEM) 数据库提供。据我们所知，InSAR-DLPU 是第一个为基于 DL 的 InSAR PU 任务提供基准的公共数据集。基于该数据集，我们可以广泛验证和比较现有的深度卷积神经网络 (DCNN)。此外，由于地形特征和噪声水平的高度多样性，该数据集具有更好的信息丰富性，可以提高基于 DL 的 PU 方法的泛化能力。我们已将 InSAR-DLPU 公开发布于 https://github.com/zhoulifan/InSAR-DLPU，为基于 DL 的 PU 在 InSAR 应用（如地形测绘和变形监测）方面的研究提供了重要资源。]]></description>
+      <description><![CDATA[本文介绍了一个大型且多样化的基准数据集 InSAR-DLPU，它由 31,100 对包裹相位和绝对相位块组成，以支持合成孔径雷达干涉测量 (InSAR) 信号处理中相位展开 (PU) 技术的深度学习 (DL) 研究。该数据集中的每对斑块均由中国所有地形数据生成，这些数据由 30 米分辨率的 NASA 航天飞机雷达地形测绘任务 (SRTM) 数字高程地图 (DEM) 数据库提供。据我们所知，InSAR-DLPU 是第一个为基于 DL 的 InSAR PU 任务提供基准的公共数据集。基于该数据集，我们可以广泛验证和比较现有的深度卷积神经网络 (DCNN)。此外，由于地形特征和噪声水平的高度多样性，该数据集具有更好的信息丰富性，可以提高基于 DL 的 PU 方法的泛化能力。我们已将 InSAR-DLPU 发布在 https://github.com/zhoulifan/InSAR-DLPU，为基于 DL 的 PU 在 InSAR 应用（如地形测绘和变形监测）方面的研究提供了重要资源。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10582800</guid>
       <pubDate>Tue, 02 Jul 2024 13:17:41 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>寻找“正常”问题 [编辑寄语]</title>
       <link>http://ieeexplore.ieee.org/document/10582796</link>
-      <description><![CDATA[在我们等待 IEEE 地球科学与遥感杂志 (GRSM) 特刊在今年晚些时候完成并出版的同时，2024 年 6 月的这期仅包含三篇技术文章和七篇专栏文章。技术文章的数量有所减少，因为这几个月的大多数投稿都是针对三个开放的特刊。因此，本期技术文章数量有限在某种程度上是意料之中的。相反，尽管 GSRM 编辑委员会的许多成员不断努力，但事实证明，从学会广泛活动组合的不同要素中不断涌现专栏文章是一项“不可能完成的任务”。因此，我们不得不接受这样一个事实：很可能我们永远无法每四个月为每种专栏文章类型获得至少一篇专栏文章，而这正是我担任编辑的目标之一。这看起来很奇怪，因为我们确信执行的活动比我们在专栏中发布的活动要多得多，但也许他们的组织者没有意识到在 GRSM 上发表并展示他们的工作的机会，或者他们不愿意利用这个机会。这对他们和这本杂志来说都是一件令人遗憾的事。]]></description>
+      <description><![CDATA[在我们等待 IEEE 地球科学与遥感杂志 (GRSM) 特刊在今年晚些时候完成并出版的同时，2024 年 6 月的这期仅包含三篇技术文章和七篇专栏文章。技术文章的数量有所减少，因为这几个月的大多数投稿都是针对三个开放的特刊。因此，本期技术文章数量有限在某种程度上是意料之中的。相反，尽管 GSRM 编辑委员会的许多成员不断努力，但事实证明，要从学会广泛活动组合的不同要素中不断涌现专栏文章是一项“不可能完成的任务”。因此，我们不得不接受这样一个事实：很可能我们永远无法每四个月为每种专栏文章类型获得至少一篇专栏文章，而这正是我担任编辑的目标之一。这看起来很奇怪，因为我们确信执行的活动比我们在专栏中发布的活动要多得多，但也许他们的组织者没有意识到在 GRSM 上发表并展示他们的工作的机会，或者他们不愿意利用这个机会。这对他们和这本杂志来说都是一件令人遗憾的事。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10582796</guid>
       <pubDate>Tue, 02 Jul 2024 13:17:40 GMT</pubDate>
     </item>
