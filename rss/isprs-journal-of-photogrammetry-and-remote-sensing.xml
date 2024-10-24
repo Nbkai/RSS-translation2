@@ -4,356 +4,356 @@
     <title>ScienceDirect 出版物：ISPRS 摄影测量与遥感杂志</title>
     <link>https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 24 Oct 2024 06:33:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:25:39 GMT</lastBuildDate>
+    <item>
+      <title>MuSRFM：基于多尺度分辨率融合的精确而稳健的卫星测深模型，适用于使用 sentinel-2 多光谱影像的岛屿近岸浅水区</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003459?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Xiaoming Qin, Ziyin Wu, Xiaowen Luo, Jihong Shang, Dineng Zhao, Jieqiong Zhou, Jiaxin Cui, Hongyang Wan, Guochang Xu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003459?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:39 GMT</pubDate>
+    </item>
     <item>
       <title>基于多参数雪后向散射模型的极化SAR雪深反演方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003411?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Haiwei Qiao, Ping Zhang, Zhen Li, Lei Huang, Zhipeng Wu, Shuo Gao, Chang Liu, Shuang Liang, Jianmin Zhou, Wei Sun]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003411?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:14 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:39 GMT</pubDate>
     </item>
     <item>
       <title>通过将物理约束结合到深度学习框架来估算 AVHRR 积雪覆盖率</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003265?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Qin Zhao, Xiaohua Hao, Tao Che, Donghang Shao, Wenzheng Ji, Siqiong Luo, Guanghui Huang, Tianwen Feng, Leilei Dong, Xingliang Sun, Hongyi Li, Jian Wang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003265?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向多遥感影像镶嵌的全局和局部辐射归一化的联合区域调整和变分优化</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003277?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Dekun Lin、Huanfeng Shen、Xinghua Li、Chao Zeng、Tao Jiang、Yongming Ma、Mingjie Xu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003277?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>重建多云地区的 NDVI 时间序列：一种具有深度学习残差约束的融合拟合方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003484?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：秦鹏、黄华兵、陈培民、唐海龙、王杰、陈爽]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003484?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>MuSRFM：基于多尺度分辨率融合的精确而稳健的卫星测深模型，适用于使用 sentinel-2 多光谱影像的岛屿近岸浅水区</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003459?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Xiaoming Qin, Ziyin Wu, Xiaowen Luo, Jihong Shang, Dineng Zhao, Jieqiong Zhou, Jiaxin Cui, Hongyang Wan, Guochang Xu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003459?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>结合物理模型与无监督深度学习的遥感影像薄云盲校正方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003460?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：徐丽英、李慧芳、沈焕峰、张驰、张良培]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003460?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Google Earth Engine 中的 Sentinel-2 和 VIIRS/MODIS 活跃火灾绘制全球烧毁区域地图的自动程序</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003307?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 218 卷，A 部分作者：Aitor巴斯塔里卡、阿曼多·罗德里格斯·蒙特利亚诺、埃希·罗特塔、斯蒂恩·汉特森、马吉·弗朗克萨、莱尔·塔尔、乔恩·冈萨雷斯·伊巴尔扎瓦尔、卡梅勒·阿塔诺、皮拉尔·马丁内斯·布兰科、阿玛亚·梅桑萨、耶稣·A·阿纳亚、埃米利奥·楚维科]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003307?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>TLS 多站配准平差问题的非线性最小二乘解</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003526?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Yu Hu、Xing Fang、Wenxian Zeng]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003526?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:12 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:39 GMT</pubDate>
     </item>
     <item>
       <title>天气感知自动驾驶仪：不同天气场景中点云语义分割的领域泛化</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003423?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Jing Du、John Zelek、Jonathan Li]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003423?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:12 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:38 GMT</pubDate>
     </item>
     <item>
-      <title>同质标记器很重要：用于遥感图像理解的同质视觉标记器</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003472?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 218 卷，A 部分作者：Run邵、张朝阳、陶潮、张云生、彭成利、李海峰]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003472?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:11 GMT</pubDate>
+      <title>面向多遥感影像镶嵌的全局和局部辐射归一化的联合区域调整和变分优化</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003277?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Dekun Lin、Huanfeng Shen、Xinghua Li、Chao Zeng、Tao Jiang、Yongming Ma、Mingjie Xu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003277?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:38 GMT</pubDate>
     </item>
     <item>
-      <title>SoftFormer：用于城市土地利用和土地覆盖分类的 SAR 光学融合转换器</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003502?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：刘睿、凌静、张洪胜]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003502?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:11 GMT</pubDate>
+      <title>重建多云地区的 NDVI 时间序列：一种具有深度学习残差约束的融合拟合方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003484?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：秦鹏、黄华兵、陈培民、唐海龙、王杰、陈爽]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003484?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:38 GMT</pubDate>
     </item>
     <item>
       <title>一种使用稀疏点样本弱监督语义分割的针对不同作物类型的经济高效且稳健的映射方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003551?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Zhiwen Cai, Baodong Xu, Qiangyi Yu, Xinyu Zhang, Jingya Yang, Haodong Wei, Shiqi Li, Qian Song, Hang Xiong, Hao Wu, Wenbin Wu, Zhihua Shi, Qiong Hu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003551?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:11 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:37 GMT</pubDate>
     </item>
     <item>
-      <title>通过时间相互注意和上下文特征增强的孪生网络检测无人机图像中的小物体变化：以太阳能热水器为例</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003654?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2024年12月来源： ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part A作者：Shikang陶涛、杨梦媛、王敏、杨锐、沉谦]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003654?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:10 GMT</pubDate>
+      <title>结合物理模型与无监督深度学习的遥感影像薄云盲校正方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003460?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：徐丽英、李慧芳、沈焕峰、张驰、张良培]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003460?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:37 GMT</pubDate>
     </item>
     <item>
-      <title>时间序列 sUAV 数据显示，基于植被指数的物候模型估算的落叶阔叶林春季物候指标具有中等精度和较大的不确定性</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003605?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：潘莉、肖向明、夏浩明、马晓燕、谢艳华、潘百宏、秦远伟]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003605?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:10 GMT</pubDate>
+      <title>使用 Google Earth Engine 中的 Sentinel-2 和 VIIRS/MODIS 活跃火灾绘制全球烧毁区域地图的自动程序</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003307?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 218 卷，A 部分作者：Aitor巴斯塔里卡、阿曼多·罗德里格斯·蒙特利亚诺、埃希·罗特塔、斯蒂恩·汉特森、马吉·弗朗克萨、莱尔·塔尔、乔恩·冈萨雷斯·伊巴尔扎瓦尔、卡梅勒·阿塔诺、皮拉尔·马丁内斯·布兰科、阿玛亚·梅桑萨、耶稣·A·阿纳亚、埃米利奥·楚维科]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003307?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:37 GMT</pubDate>
     </item>
     <item>
-      <title>预测梯度更好：使用联合嵌入预测架构探索 SAR ATR 的自监督学习</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003514?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Weijie Li, Wei Yang, Tianpeng Liu, Yuenan Hou, Yuxuan Li, Zhen Liu, Yongxiang Liu, Li Liu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003514?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:10 GMT</pubDate>
+      <title>TLS 多站配准平差问题的非线性最小二乘解</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003526?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Yu Hu、Xing Fang、Wenxian Zeng]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003526?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:37 GMT</pubDate>
     </item>
     <item>
       <title>VDFT：使用视点不变可变形特征变换对空中和地面图像进行稳健特征匹配</title>
       <link>https://www.sciencedirect.com/science/article/pii/S092427162400354X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：朱柏、叶元欣、戴金昆、彭涛、邓继伟、朱庆]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S092427162400354X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:10 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>绘制巴西大草原的自然植被：一种 SAR 光学不确定性感知深度学习方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003575?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Paulo Silva Filho、Claudio Persello、Raian V. Maretto、Renato Machado]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003575?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:09 GMT</pubDate>
+      <title>同质标记器很重要：用于遥感图像理解的同质视觉标记器</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003472?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 218 卷，A 部分作者：Run邵、张朝阳、陶潮、张云生、彭成利、李海峰]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003472?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>利用深林结合遥感和现场观测重建全球海洋高分辨率地下温度</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003617?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2024年12月来源： ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part A作者：华苏、张飞燕、滕剑辰、王安、黄展超]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003617?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:09 GMT</pubDate>
+      <title>SoftFormer：用于城市土地利用和土地覆盖分类的 SAR 光学融合转换器</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003502?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：刘睿、凌静、张洪胜]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003502?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>用于稳健图像匹配的统一特征运动一致性框架</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003599?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：周燕、高金鼎、刘小平]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003599?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:09 GMT</pubDate>
+      <title>通过时间相互注意和上下文特征增强的孪生网络检测无人机图像中的小物体变化：以太阳能热水器为例</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003654?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2024年12月来源： ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part A作者：Shikang陶涛、杨梦媛、王敏、杨锐、沉谦]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003654?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>使用高斯混合模型和基于光学和 SAR 图像的新型红树林指数 (SSMI) 绘制中国红树林地图</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003642?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：陈兆军、张怀庆、张猛、吴叶红、刘洋]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003642?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:08 GMT</pubDate>
+      <title>时间序列 sUAV 数据显示，基于植被指数的物候模型估算的落叶阔叶林春季物候指标具有中等精度和较大的不确定性</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003605?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：潘莉、肖向明、夏浩明、马晓燕、谢艳华、潘百宏、秦远伟]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003605?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>卫星成像时间序列的递归分类：土地覆盖制图的应用</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003381?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Helena Calatrava、Bhavya Duvvuri、Haoqing Li、Ricardo Borsoi、Edward Beighley、Deniz Erdoğmuş、Pau Closas、Tales Imbiriba]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003381?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:08 GMT</pubDate>
+      <title>预测梯度更好：使用联合嵌入预测架构探索 SAR ATR 的自监督学习</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003514?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Weijie Li, Wei Yang, Tianpeng Liu, Yuenan Hou, Yuxuan Li, Zhen Liu, Yongxiang Liu, Li Liu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003514?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:35 GMT</pubDate>
     </item>
     <item>
       <title>SDCINet：一种利用光学遥感图像分割和检测受损/变化建筑物目标的新型跨任务集成网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003629?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：张海明、马国瑞、范红阳、龚红宇、王迪、张永贤]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003629?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:08 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:34 GMT</pubDate>
     </item>
     <item>
-      <title>建立可在数十年和洲际尺度上时空转移的 SOC 含量预测模型的新方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003769?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Xiangtian Meng、Yilin Bao、Chong Luo、Xinle Zhang、Huanjun Liu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003769?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:07 GMT</pubDate>
+      <title>绘制巴西大草原的自然植被：一种 SAR 光学不确定性感知深度学习方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003575?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Paulo Silva Filho、Claudio Persello、Raian V. Maretto、Renato Machado]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003575?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:34 GMT</pubDate>
     </item>
     <item>
-      <title>用于屋顶平面分割的欧几里得和嵌入空间中的边界感知点聚类方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S092427162400368X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Li Li、Qingqing Li、Guozheng Xu、Pengwei Zhou、Jingmin Tu、Jie Li、Mingming Li、Jian Yao]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S092427162400368X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:07 GMT</pubDate>
+      <title>利用深林结合遥感和现场观测重建全球海洋高分辨率地下温度</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003617?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2024年12月来源： ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part A作者：华苏、张飞燕、滕剑辰、王安、黄展超]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003617?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:34 GMT</pubDate>
     </item>
     <item>
-      <title>VNI-Net：基于矢量神经元的旋转不变描述符，用于 LiDAR 位置识别</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003496?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Gengxuan Tian, Junqiao Zhao, Yingfeng Cai, Fenglin Zhang, Xufei Wang, Chen Ye, Sisi Zlatanova, Tiantian Feng]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003496?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:07 GMT</pubDate>
+      <title>用于稳健图像匹配的统一特征运动一致性框架</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003599?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：周燕、高金鼎、刘小平]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003599?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:34 GMT</pubDate>
     </item>
     <item>
       <title>有效利用差异特征：用于探索时间序列遥感图像中变化区域和变化时刻的多任务网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003678?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Jialu Li、Chen Wu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003678?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:07 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用高斯混合模型和基于光学和 SAR 图像的新型红树林指数 (SSMI) 绘制中国红树林地图</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003642?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：陈兆军、张怀庆、张猛、吴叶红、刘洋]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003642?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫星成像时间序列的递归分类：土地覆盖制图的应用</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003381?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Helena Calatrava、Bhavya Duvvuri、Haoqing Li、Ricardo Borsoi、Edward Beighley、Deniz Erdoğmuş、Pau Closas、Tales Imbiriba]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003381?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立可在数十年和洲际尺度上时空转移的 SOC 含量预测模型的新方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003769?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Xiangtian Meng、Yilin Bao、Chong Luo、Xinle Zhang、Huanjun Liu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003769?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于屋顶平面分割的欧几里得和嵌入空间中的边界感知点聚类方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S092427162400368X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Li Li、Qingqing Li、Guozheng Xu、Pengwei Zhou、Jingmin Tu、Jie Li、Mingming Li、Jian Yao]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S092427162400368X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>VNI-Net：基于矢量神经元的旋转不变描述符，用于 LiDAR 位置识别</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003496?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Gengxuan Tian, Junqiao Zhao, Yingfeng Cai, Fenglin Zhang, Xufei Wang, Chen Ye, Sisi Zlatanova, Tiantian Feng]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003496?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:32 GMT</pubDate>
     </item>
     <item>
       <title>通过恢复高太阳天顶角的 MODIS-Aqua 叶绿素 a 产品重新评估南大洋冬季碳汇</title>
       <link>https://www.sciencedirect.com/science/article/pii/S092427162400371X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：张可、张兆儒、何建峰、Walker O. Smith、刘娜、乐成峰]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S092427162400371X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:06 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:31 GMT</pubDate>
     </item>
     <item>
       <title>ASANet：用于 RGB 和 SAR 图像土地覆盖分类的非对称语义对齐网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003630?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：张攀、彭宝钗、陆超然、黄全金、刘东升]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003630?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:06 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:31 GMT</pubDate>
     </item>
     <item>
       <title>使用无人机热成像技术和基于 YOLO 的物体探测器自动定位堤坝泄漏口</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003770?dgcid=rss_sd_all</link>
       <description><![CDATA[发表日期：2024年12月来源： ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part A作者：Renlian周、Monjee K. Almustafa、Moncef L. Nehdi、苏怀志]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003770?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:06 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:31 GMT</pubDate>
     </item>
     <item>
       <title>使用摄影测量方法进行视觉引导机器人校准</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003757?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 218 卷，A 部分作者：Markus乌尔里希、卡斯滕·斯蒂格、弗洛里安·布奇、莫里斯·利贝]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003757?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:05 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:30 GMT</pubDate>
     </item>
     <item>
-      <title>一种不依赖物候知识、利用极化 SAR 图像时间序列自动绘制水稻地图的方法</title>
+      <title>一种不依赖物候知识、利用时间序列极化 SAR 图像自动绘制水稻地图的方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003733?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Suya Lin、Zhixin Qi、Xia Li、Hui Zhang、Qianwen Lv、Di Huang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003733?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:05 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:30 GMT</pubDate>
     </item>
     <item>
       <title>OR-LIM：高动态传感器运动下可观测性感知的稳健 LiDAR 惯性测绘</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003745?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2024Source: ISPRS Journal of Photogrammetry and Remote Sensing, Volume 218, Part AAuthor(s): Yangzi Cong, Chi Chen, Bisheng Yang, Ruofei Zhong, Shangzhe Sun, Yuhang Xu, Zhengfei Yan, Xianghong Zou, Zhigang Tu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003745?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:05 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:30 GMT</pubDate>
     </item>
     <item>
       <title>具有高斯随机场先验的变分自动编码器：应用于航空图像中的无监督动物检测</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003666?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Hugo Gangloff、Minh-Tan Pham、Luc Courtrai、Sébastien Lefèvre]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003666?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>PolyGNN：基于多面体的图神经网络，用于从点云进行 3D 建筑物重建</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003691?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Zhaiyu Chen、Yilei Shi、Liangliang Nan、Zhitong Xiong、Xiao Xiang Zhu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003691?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:04 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:30 GMT</pubDate>
     </item>
     <item>
       <title>多幅图像中 3D 线的聚类、三角测量和评估</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003782?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：董伟、郭浩宇、万毅、张永军、李昌、王光帅]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003782?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:04 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:29 GMT</pubDate>
     </item>
     <item>
       <title>HyperDehazing：高光谱图像去雾基准数据集和去雾深度学习模型</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003721?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Hang Fu、Ziyan Ling、Genyun Sun、Jinchang Ren、Aizhu Zhang、Li Zhang、Xiuping Jia]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003721?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:04 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:29 GMT</pubDate>
     </item>
     <item>
       <title>基于火星高光谱遥感图像的矿物探测：从探测方法到精细测绘</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003587?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：田柯、钟燕飞、宋密、王新宇、张良培]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003587?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:03 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:28 GMT</pubDate>
     </item>
     <item>
       <title>直接从 sentinel-2 图像对潮滩进行稳健制图的高效指标</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003836?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Pengfei Tang、Shanchuan Guo、Peng Zhang、Lu Qie、Xiaoquan Pan、Jocelyn Chanussot、Peijun Du]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003836?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:03 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:28 GMT</pubDate>
     </item>
     <item>
       <title>通过多视角分析考虑混杂因素，改进田块试验中基于无人机的未校准小麦冠层温度估计值</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003538?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Simon Treier、Juan M. Herrera、Andreas Hund、Norbert Kirchgessner、Helge Aasen、Achim Walter、Lukas Roth]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003538?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:03 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:28 GMT</pubDate>
     </item>
     <item>
       <title>SAMPolyBuild：调整 Segment Anything 模型以提取多边形建筑物</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003563?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：王晨浩、陈静波、孟宇、邓宇鹏、李凯、孔云龙]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003563?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:03 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:28 GMT</pubDate>
     </item>
     <item>
-      <title>使用街景图像和混合语义图进行多层次城市街道表示</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003708?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：张燕、李勇、张帆]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003708?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:02 GMT</pubDate>
+      <title>PolyGNN：基于多面体的图神经网络，用于从点云进行 3D 建筑物重建</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003691?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Zhaiyu Chen、Yilei Shi、Liangliang Nan、Zhitong Xiong、Xiao Xiang Zhu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003691?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:28 GMT</pubDate>
     </item>
     <item>
       <title>通过 Sentinel-2 时间序列物候比对绘制大豆地图的稳健方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003927?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：Xin Huang、Anton Vrieling、Yue Dou、Mariana Belgiu、Andrew Nelson]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003927?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:02 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:27 GMT</pubDate>
     </item>
     <item>
       <title>PRISMethaNet：一种利用 PRISMA 卫星数据检测垃圾填埋场甲烷的新型深度学习模型</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003800?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 218 卷，A 部分作者：Mohammad Marjani、Fariba Mohammadimanesh、Daniel J. Varon、Ali Radman、Masoud Mahdianpari]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003800?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:02 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:27 GMT</pubDate>
     </item>
     <item>
       <title>沙丘模式的全球视角：使用 Landsat 影像和深度学习策略进行尺度自适应分类</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003794?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，A 部分作者：Zhijia Zheng、Xiuyuan Zhang、Jiajun Li、Eslam Ali、Jinsongdi Yu、Shihong Du]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003794?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用差分变形图检测可能受损的建筑物</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S092427162400385X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 218 卷，B 部分作者：Saeedeh Shahbazi、安娜·巴拉、高奇、米歇尔·克罗塞托]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S092427162400385X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:01 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:27 GMT</pubDate>
     </item>
     <item>
       <title>深度共享代理构造哈希用于跨模态遥感图像快速目标检索</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003812?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：Lirong Han、Mercedes E. Paoletti、Sergio Moreno-Álvarez、Juan M. Haut、Antonio Plaza]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003812?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:01 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:26 GMT</pubDate>
     </item>
     <item>
       <title>PolyR-CNN：用于端到端多边形建筑物轮廓提取的 R-CNN</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003824?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：Weiqin Jiao、Claudio Persello、George Vosselman]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003824?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:01 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用街景图像和混合语义图进行多层次城市街道表示</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003708?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：张燕、李勇、张帆]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003708?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>广义时空谱集成融合土壤水分降尺度方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003903?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：蒋孟辉、沈焕峰、李杰、张良培]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003903?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用差分变形图检测可能受损的建筑物</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S092427162400385X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 12 月来源： ISPRS Journal of Photogrammetry and Remote Sensing，第 218 卷，B 部分作者：Saeedeh Shahbazi、安娜·巴拉、高奇、米歇尔·克罗塞托]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S092427162400385X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 24 Oct 2024 09:25:25 GMT</pubDate>
     </item>
     <item>
       <title>使用 S-NPP/VIIRS 可见光和红外通道在多场景和所有月相条件下进行夜间雾和低层云检测</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003915?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：蒋俊、姚志刚、刘阳]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003915?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:00 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:24 GMT</pubDate>
     </item>
     <item>
       <title>通过将 LSTM 与时间随机掩码和像素集空间信息相结合来改进作物类型映射</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0924271624003897?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：Xinyu Zhang、Zhiwen Cai、Qiong Hu、Jingya Yang、Haodong Wei、Liangzhi You、Baodong Xu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003897?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>广义时空谱集成融合土壤水分降尺度方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0924271624003903?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 12 月来源：ISPRS 摄影测量与遥感杂志，第 218 卷，B 部分作者：蒋梦慧、沈焕峰、李杰、张良培]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0924271624003903?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 24 Oct 2024 06:33:00 GMT</pubDate>
+      <pubDate>Thu, 24 Oct 2024 09:25:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
