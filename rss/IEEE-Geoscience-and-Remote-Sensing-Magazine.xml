@@ -55,7 +55,7 @@
       <pubDate>Mon, 23 Sep 2024 13:16:34 GMT</pubDate>
     </item>
     <item>
-      <title>第 44 届 IEEE 国际地球科学与遥感研讨会 (IGARSS 2024) — 2024 年 7 月 7 日至 12 日，希腊雅典：首日印象 [会议报告]</title>
+      <title>第 44 届 IEEE 国际地球科学与遥感研讨会 (IGARSS 2024) — 希腊雅典，2024 年 7 月 7 日至 12 日：首日印象 [会议报告]</title>
       <link>http://ieeexplore.ieee.org/document/10685155</link>
       <description><![CDATA[提供社会信息，包括从业者和研究人员可能感兴趣的新闻、评论或技术说明。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10685155</guid>
@@ -162,7 +162,7 @@
     <item>
       <title>根据高光谱图像估算土壤参数：基准数据集和 HYPERVIEW 挑战赛的结果</title>
       <link>http://ieeexplore.ieee.org/document/10526314</link>
-      <description><![CDATA[通过利用地球观测和人工智能 (AI) 来改进农业方法已成为一个重要问题。大规模量化土壤参数的能力可以在优化施肥过程中发挥关键作用。虽然存在从高光谱图像 (HSI) 中无创估计土壤参数的技术，但它们的验证通常发生在不同的数据集中，并采用不同的验证协议。这种多样性使得它们本质上具有挑战性（甚至不可能）进行客观比较。]]></description>
+      <description><![CDATA[通过利用地球观测和人工智能 (AI) 来改进农业方法已成为一个重要问题。大规模量化土壤参数的能力可以在优化施肥过程中发挥关键作用。虽然存在从高光谱图像 (HSI) 中非侵入性地估计土壤参数的技术，但它们的验证通常发生在不同的数据集中，并采用不同的验证协议。这种多样性使得它们本质上具有挑战性（甚至不可能）进行客观比较。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10526314</guid>
       <pubDate>Thu, 09 May 2024 13:16:27 GMT</pubDate>
     </item>
